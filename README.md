@@ -1,6 +1,6 @@
-# 🚀 Cripto Data Lakehouse - ELT & Near Real-Time Analytics
+# 🚀 Cripto Data Lakehouse - ELT & Real-Time Analytics
 
-Bem-vindo ao repositório do projeto **Crypto Lakehouse ELT**. Este projeto demonstra a construção de uma arquitetura de dados End-to-End moderna, utilizando o paradigma Data Lakehouse para ingestão, processamento e visualização de dados do mercado de criptomoedas em "Near Real-Time".
+Bem-vindo ao repositório do projeto **Crypto Lakehouse ELT**. Este projeto demonstra a construção de uma arquitetura de dados End-to-End moderna, utilizando o paradigma Data Lakehouse para ingestão, processamento e visualização de dados do mercado de criptomoedas em "Real-Time".
 
 ## 🏗️ Arquitetura do Projeto
 
@@ -38,7 +38,7 @@ O fluxo de dados segue as melhores práticas da Arquitetura Medalhão, estrutura
 ## 📊 Dashboard Executivo
 
 Os dados consolidados são consumidos nativamente pelo Power BI através de um token de acesso seguro (PAT). O painel apresenta:
-* Cotação atualizada (Near Real-Time) das 10 principais criptomoedas.
+* Cotação atualizada (Real-Time) das 10 principais criptomoedas.
 * Análise de variação Intraday e tendências de longo prazo.
 * Interface moderna com UI/UX focada em ambiente corporativo (modo claro, bordas suavizadas e sombras).
 
