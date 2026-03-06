@@ -44,6 +44,11 @@ Os dados consolidados são consumidos nativamente pelo Power BI através de um t
 
 <img width="1316" height="725" alt="image" src="https://github.com/user-attachments/assets/fe12eec4-b098-440e-9dc0-9b753bf0eaf6" />
 
+## 🗓️ Jobs
+
+<img width="1902" height="924" alt="img1" src="https://github.com/user-attachments/assets/700f103e-ef60-459d-af0b-2cb2db6cc37e" />
+<img width="1713" height="887" alt="img2" src="https://github.com/user-attachments/assets/1578048a-4956-46c0-a53b-5f20abfe1811" />
+
 
 ---
 *Desenvolvido por [Arthur Almeida](https://github.com/ArthurrAlmeida)*
